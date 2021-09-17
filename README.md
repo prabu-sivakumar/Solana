@@ -49,7 +49,8 @@ On Mac M1s, make sure we set up terminal and homebrew to use Rosetta.
     cd solana
 
 ## Build
-cargo build
+
+    cargo build
 
 ## Run a minimal local cluster
 
